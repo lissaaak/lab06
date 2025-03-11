@@ -1,0 +1,4 @@
+/root/lissaaak/workspace/projects/lab03/_install/lib/libprint.a
+/root/lissaaak/workspace/projects/lab03/_install/include/print.hpp
+/root/lissaaak/workspace/projects/lab03/_install/cmake/print-config.cmake
+/root/lissaaak/workspace/projects/lab03/_install/cmake/print-config-noconfig.cmake
